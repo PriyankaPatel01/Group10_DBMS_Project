@@ -1,0 +1,49 @@
+body
+{
+    background-color: pink;
+}
+
+.centered {
+    position: absolute;
+    text-align: center;
+  }
+  
+  .centered img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.top_left
+{
+    margin-top: 7%;
+    margin-left: 10%;
+    float: left;
+}
+
+.top_middle
+{
+    margin-top: 7%;
+    margin-left: 35%;
+    float: left;
+}
+
+.top_right
+{
+    margin-top: 7%;
+    margin-right: 25%;
+    float: right;
+}
+
+.bottom_left
+{
+    margin-top: 30%;
+    margin-left: -20%;
+    float: left;
+}
+
+.bottom_right
+{
+    margin-top: 25%;
+    margin-right: 40%;
+    float: right;
+}

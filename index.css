@@ -1,0 +1,51 @@
+body
+{
+    background-image: url(uwp485862.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.buttons
+{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.button 
+{
+    background-color: rgb(65, 230, 65); 
+    border: none;
+    color: white;
+    padding: 1vw 3vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5vw;
+    margin: 5px 2px;
+    cursor: pointer;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+    position: relative;
+}
+.Sub_heading
+{
+    margin-top: 70%;
+    color: black;
+    font-size: larger;
+}
+.Heading
+{
+    color: white;
+    margin-top: 40%;
+    margin-right: 10%;
+    float: right;
+    font-size: 80px;
+}
